@@ -27,13 +27,4 @@ You are a senior full-stack web developer with expertise in Bootstrap 5, modern 
 
 Ensure everything is user-friendly, visually appealing, and optimized for both desktop and mobile.
 
-</details>
-
-<details>
-
-<summary>Click to toggle contents of other `code`</summary>
-
-```
-MORE CODE!
-```
-</details>
+</details
