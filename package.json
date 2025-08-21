@@ -1,0 +1,14 @@
+{
+  "name": "lottery-tickets-number_cruncher",
+  "version": "1.0.0",
+  "description": "Space themed lottery scratcher suggestion app",
+  "type": "module",
+  "scripts": {
+    "generate": "node scraper.js",
+    "test": "node --test",
+    "lint": "node --check script.js scraper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

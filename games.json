@@ -1,0 +1,20 @@
+[
+  {
+    "code": "123",
+    "name": "Galactic Cash",
+    "price": 5,
+    "type": "crossword",
+    "prizeCount": 10,
+    "unclaimed": 50000,
+    "launchDate": "2024-01-15"
+  },
+  {
+    "code": "125",
+    "name": "Star Surplus",
+    "price": 10,
+    "type": "numbers",
+    "prizeCount": 15,
+    "unclaimed": 150000,
+    "launchDate": "2024-05-01"
+  }
+]
